@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "[NAUKA]", "[NAUKA]\[NAUKA].csproj", "{9E9E0EE1-2926-426E-8F8B-F7092D522A1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9E0EE1-2926-426E-8F8B-F7092D522A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9E0EE1-2926-426E-8F8B-F7092D522A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9E0EE1-2926-426E-8F8B-F7092D522A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9E0EE1-2926-426E-8F8B-F7092D522A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF3C77C-6850-4750-B3DF-61957E5172A1}
+	EndGlobalSection
+EndGlobal
